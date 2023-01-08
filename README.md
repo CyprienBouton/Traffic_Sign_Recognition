@@ -13,7 +13,7 @@ In this project, I use pytorch and python to classify 50km/h Traffic Signs among
 
 This project uses the German Traffic Sign Recognition Benchmark. The set of images can be downloaded [here](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip) or you can directly run the first cells of the notebooks to get the images on your computer.
 
-The dataset contains 43 different type classes of traffic signs and 39209 images.
+The dataset contains 43 different type classes of traffic signs and 39 209 images.
 
 # Installation
 
@@ -34,9 +34,9 @@ Main steps of the notebook:
 
 # Conclusion
 
-In the end, we are able to recognize a 50km/h sign with a accuracy above 0.98 for our testing set.
+In the end, we are able to recognize a 50km/h sign with a accuracy above 0.98 for our test set.
 
-This type of algorithm could be useful for a self-driving car to recognize traffic signs. However, the car first need to know where the traffic signs are. 
+This type of algorithm could be useful for a self-driving car to recognize traffic signs. However, the car must first know where the traffic signs are. 
 ```
 
 
